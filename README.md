@@ -35,8 +35,8 @@ The platform focuses on **risk surveillance workflows used by middle-office and 
 crypto-derivatives-risk-monitor/
 │
 ├── data/
-│   ├── btc_prices.csv
-│   ├── eth_prices.csv
+│   ├── btc_perp_prices.csv
+│   ├── eth_perp_prices.csv
 │   └── simulated_positions.csv
 │
 ├── risk_engine/
