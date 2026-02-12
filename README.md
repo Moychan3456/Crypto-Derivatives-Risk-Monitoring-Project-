@@ -45,8 +45,12 @@ crypto-derivatives-risk-monitor/
 │   └── severity_engine.py
 │
 ├── dashboard/
-│   └── app.py
-│
+│   ├── app.py
+│   └── screenshots
+|       ├── Desk Exposure Overview.jpg
+│       ├── Margin Utilisation.jpg
+│       ├── Risk Monitor.jpg
+│       └── Risk Severity.png
 ├── reports/
 │   ├── daily_risk_report.csv
 │   ├── daily_risk_report_with_severity.csv
