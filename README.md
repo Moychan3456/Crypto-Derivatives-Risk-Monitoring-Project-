@@ -12,10 +12,10 @@ The platform focuses on **risk surveillance workflows used by middle-office and 
 ![Desk Exposure](Streamlit Dashboard/Streamlit screenshots/Desk Exposure Overview.jpg)
 
 ### Margin Utilisation Monitoring
-![Margin Utilisation](Streamlit Dashboard/Sreamlit screenshots/Margin Utilisation.jpg)
+![Margin Utilisation](Streamlit Dashboard/Streamlit screenshots/Margin Utilisation.jpg)
 
 ### Risk Severity Panel
-![Risk Severity](Streamlit Dashboard/Sreamlit screenshots/Risk Severity.png)
+![Risk Severity](Streamlit Dashboard/Streamlit screenshots/Risk Severity.png)
 
 
 ## Key Features
