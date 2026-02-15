@@ -74,3 +74,4 @@ if not warning.empty:
 if critical.empty and warning.empty:
     st.success("All positions operating within risk tolerance.")
 
+
