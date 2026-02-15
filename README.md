@@ -44,9 +44,9 @@ crypto-derivatives-risk-monitor/
 │   ├── concentration_risk.py
 │   └── severity_engine.py
 │
-├── dashboard/
-│   ├── app.py
-│   └── screenshots
+├── streamlit dashboard/
+│   ├── streamlit_app.py
+│   └── streamlit screenshots
 |       ├── Desk Exposure Overview.jpg
 │       ├── Margin Utilisation.jpg
 │       ├── Risk Monitor.jpg
