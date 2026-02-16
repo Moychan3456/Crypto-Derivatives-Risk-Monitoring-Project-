@@ -6,7 +6,7 @@ This project implements an institutional-style **Crypto Derivatives Risk Monitor
 The platform focuses on **risk surveillance workflows used by middle-office and risk operations teams**, including exposure monitoring, margin utilization tracking, liquidation risk estimation, and portfolio-level risk escalation.
 
 ---
-## Dashboard Preview
+## Streamlit Dashboard Preview
 
 ### Desk Exposure Overview
 ![Desk Exposure](Streamlit_Dashboard/Streamlit_screenshots/Desk_Exposure_Overview.jpg)
